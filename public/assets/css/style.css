@@ -1,0 +1,10 @@
+
+.workout-link{
+    color: #000000;
+    text-decoration: none;
+}
+
+.workout-link:hover, .workout-link:focus {
+    color: #000000;
+    text-decoration: none;
+}
